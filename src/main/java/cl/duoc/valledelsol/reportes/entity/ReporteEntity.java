@@ -11,11 +11,16 @@ public class ReporteEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-    
-    private String tipo;
+
+    private String fireType;
+    private String severity;
+    private String visible;
+    private String address;
+    private String name;
+    private String phone;
+    private Double lat;
+    private Double lng;
     private int prioridad;
-    private String descripcion;
-    private Double latitud;
-    private Double longitud;
+    private Long userId;
     private LocalDateTime fechaCreacion = LocalDateTime.now();
 }
