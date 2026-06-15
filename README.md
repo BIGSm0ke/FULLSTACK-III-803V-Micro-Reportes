@@ -35,4 +35,5 @@ Cobertura: **89.4%**
 
 ## Capturas
 
-> _(Agregar captura del reporte JaCoCo y Swagger UI)_
+<img width="932" height="163" alt="image" src="https://github.com/user-attachments/assets/ef9730c4-a2b4-46ab-8f59-5f82a2273b26" />
+
